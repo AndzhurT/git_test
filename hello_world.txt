@@ -1,0 +1,6 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+    <title> First page using Odin project </title>
+  </head>
+</html>
